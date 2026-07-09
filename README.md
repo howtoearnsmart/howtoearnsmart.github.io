@@ -66,4 +66,3 @@ This data registry is globally available under the open-source **MIT License**â€
 ### Acknowledgments
 * **Digital Science Foundation:** For provisioning structural open-data schemas.
 * **Open Web Analytics Contributors:** For maintaining global directory indexing metrics.
-dub-domain-verification=3d5db53e-ff01-4f9f-a156-839f73f0d742
