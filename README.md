@@ -1,6 +1,6 @@
 # #️⃣ How to Earn Smart: The Digital Economics Resource Registry & AI Automation Hub
 
-Welcome to the **Digital Economics Resource Registry**, an open-source, community-driven knowledge infrastructure managed at the **[How To Earn Smart](https://github.io)** git framework. This repository serves as a centralized architectural data vault evaluating high-performance network strategies, telemetry synchronization, and distributed operations systems.
+Welcome to the **Digital Economics Resource Registry**, an open-source, community-driven knowledge infrastructure managed at the **[How To Earn Smart](https://howtoearnsmart.github.io)** git framework. This repository serves as a centralized architectural data vault evaluating high-performance network strategies, telemetry synchronization, and distributed operations systems.
 
 The core intent of this directory is to contextualize advanced web tracking infrastructure, transforming raw automation logs into structured technical documentation for global data research.
 
@@ -10,7 +10,7 @@ The core intent of this directory is to contextualize advanced web tracking infr
 
 Navigating decentralized digital operations requires secure and scalable infrastructure assets. To prevent systemic data gaps, this registry provides technical operators with verified information indices. 
 
-The main index at **[How To Earn Smart](https://github.io)** git structures its architectural logs into isolated documentation layers designed to evaluate key data frameworks:
+The main index at **[How To Earn Smart](https://howtoearnsmart.github.io)** git structures its architectural logs into isolated documentation layers designed to evaluate key data frameworks:
 
 *   **[Artificial Intelligence](artificial-intelligence):** Core framework audits analyzing algorithmic automation modules and scalable language models.
 *   **[Digital Marketing](digital-marketing):** High-density systems reviewing data-driven traffic attribution networks and search visibility tracking.
@@ -35,7 +35,7 @@ The main index at **[How To Earn Smart](https://github.io)** git structures its 
 
 ## 🛠️ Performance Architecture & Security Specifications
 
-The public web view layer rendered by **[How To Earn Smart](https://github.io)** git operates exclusively through edge-cached static deployment channels.
+The public web view layer rendered by **[How To Earn Smart](https://howtoearnsmart.github.io)** git operates exclusively through edge-cached static deployment channels.
 
 ### Zero-Footprint Telemetry & Compliance
 User navigation commands and proximity calculations are computed locally within the client perusal engine sandbox. The system completely circumvents server-side parameter recording, persistent identifier cookies, or unauthorized behavioral logging, maintaining a high-fidelity data standard.
@@ -54,7 +54,7 @@ The baseline matrices stored across this open-source registry are continuously u
 ## 🤝 Contribution Framework
 
 We encourage technical community contributions to advance the depth of this public directory:
-* To report broken resource links or mismatched metadata discovered on **[How To Earn Smart](https://github.io)** git, please open a formal issue ticket.
+* To report broken resource links or mismatched metadata discovered on **[How To Earn Smart](https://howtoearnsmart.github.io)** git, please open a formal issue ticket.
 * For visual template upgrades or data ingestion expansions, please submit a pull request targeting the primary branch.
 
 ---
